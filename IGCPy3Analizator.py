@@ -3,7 +3,7 @@
 #
 #  IGCPy3Analizator.py
 #  
-#  Copyright 2014 Pablo <pablo@HP450>
+
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
